@@ -64,7 +64,7 @@ const BurgerBuilder = () => {
   };
 
   const purchaseContinueHandler = () => {
-    alert("CONTINUE");
+    alert("Purchased");
   };
 
   const addIngredientHandler = type => {

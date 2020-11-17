@@ -7,7 +7,6 @@ const navigationItems = props => (
     <NavigationItem link="/" active>
       Burger Bouilder
     </NavigationItem>
-    <NavigationItem link="/">Checkout</NavigationItem>
   </ul>
 );
 export default navigationItems;
