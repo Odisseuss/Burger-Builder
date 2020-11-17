@@ -1,11 +1,12 @@
-This a small web app that allows the user to create their own burger and order it.
+# Burger Builder
 
-To run locally, you can do:
+This a small web app that provides a fun interface for creating and ordering a burger from a shop. 
+It allows the user to add and remove ingredients from the burger.
 
-### git clone https://github.com/Odisseuss/Burger-Builder
+## To run locally
 
-and then,
+First clone the project on your machine and then run
 
-### npm install && npm run start
+```npm install && npm run start```
 
-A new tab should open in your browser displaying the app, but if not, you can navigate to localhost:3000 to view the app.
+If your broser doesn't open automatically then you can navigate to [localhost:3000](localhost:3000) to use the app
